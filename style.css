@@ -1,0 +1,247 @@
+#div1 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 50px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div1 4s infinite;
+}
+
+@keyframes div1 {
+    100% {
+        position: relative;
+        top: 208px;
+        left: 200px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        background: black;
+        border-radius: 20px;
+    }
+}
+
+#div2 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 60px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div2 4s infinite;
+}
+
+@keyframes div2 {
+    100% {
+        position: relative;
+        left: 310px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        background: black;
+        border-radius: 20px;
+    }
+}
+
+#div3 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 70px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div3 4s infinite;
+}
+
+@keyframes div3 {
+    100% {
+        position: relative;
+        top: -90px;
+        left: 420px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        background: black;
+        border-radius: 20px;
+    }
+}
+
+#div4 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 80px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div4 4s infinite;
+}
+
+@keyframes div4 {
+    100% {
+        position: relative;
+        top: -240px;
+        left: 530px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        border-radius: 20px;
+        background: black;
+    }
+}
+
+#div5 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 90px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div5 4s infinite;
+}
+
+@keyframes div5 {
+    100% {
+        position: relative;
+        top: -390px;
+        left: 640px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        border-radius: 20px;
+        background: black;
+    }
+}
+
+#div6 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 90px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div6 4s infinite;
+}
+
+@keyframes div6 {
+    100% {
+        position: relative;
+        top: -540px;
+        left: 900px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        border-radius: 20px;
+        background: black;
+    }
+}
+
+#div7 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 90px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div7 4s infinite;
+}
+
+@keyframes div7 {
+    100% {
+        position: relative;
+        top: -690px;
+        left: 1010px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        border-radius: 20px;
+        background: black;
+    }
+}
+
+#div8 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 90px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div8 4s infinite;
+}
+
+@keyframes div8 {
+    100% {
+        position: relative;
+        top: -840px;
+        left: 1120px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        border-radius: 20px;
+        background: black;
+    }
+}
+
+#div9 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid black;
+    position: relative;
+    top: 100px;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    animation: div9 4s infinite;
+}
+
+@keyframes div9 {
+    100% {
+        position: relative;
+        top: -990px;
+        left: 1230px;
+        text-shadow: 0px 0px 10px yellow;
+        color: white;
+        transform: rotateX(360deg);
+        border-radius: 20px;
+        background: black;
+    }
+}
+
+body {
+    background: linear-gradient(red, blue);
+    height: 950px;
+    background-repeat: no-repeat;
+}
